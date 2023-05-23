@@ -1,0 +1,14 @@
+Verb TO BE
+
+.-----------------------------------------------------------------.
+Sujeito	 |Conjugação	|Contração	|Significado		| 
+I (eu)	 |am			|I'm		|Eu sou  / estou		| --> i am happy
+-------------|----------------|-----------|-----------------------|
+he (ele)	 |			|he's		|Ele é / está		| --> he is happy
+she (ela)	 |Is			|she's	|Ela é / está		| --> she is at home
+It (isso)	 |			|It's		|Isso é / esta		| --> É utilizado para coisas, objetos ou animais quando queremos dizer "ele/ela"
+-------------|----------------|-----------|-----------------------| exemplo quando vamos mostrar um carro --> It is beatiful car
+We (nós)	 |			|We're	|Nós somos / estamos	| --> we are sad
+you (você(s))|	Are		|you're	|Você é / está		| --> you are bad 
+They	(eles) |			|they're	|Eles(as) são / estão	| --> they are with me
+------------------------------------------------------------------'
