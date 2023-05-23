@@ -1,14 +1,199 @@
 Verb TO BE
 
-.-----------------------------------------------------------------.
-Sujeito	 |Conjugação	|Contração	|Significado		| 
-I (eu)	 |am			|I'm		|Eu sou  / estou		| --> i am happy
--------------|----------------|-----------|-----------------------|
-he (ele)	 |			|he's		|Ele é / está		| --> he is happy
-she (ela)	 |Is			|she's	|Ela é / está		| --> she is at home
-It (isso)	 |			|It's		|Isso é / esta		| --> É utilizado para coisas, objetos ou animais quando queremos dizer "ele/ela"
--------------|----------------|-----------|-----------------------| exemplo quando vamos mostrar um carro --> It is beatiful car
-We (nós)	 |			|We're	|Nós somos / estamos	| --> we are sad
-you (você(s))|	Are		|you're	|Você é / está		| --> you are bad 
-They	(eles) |			|they're	|Eles(as) são / estão	| --> they are with me
-------------------------------------------------------------------'
+.-----------------------------------------------------------------------.
+|Sujeito		 |Conjugação	|Contração	|Significado		| 
+|------------------|----------------|-----------|-----------------------|
+|I (eu)		 |am			|I'm		|Eu sou  / estou		| --> i am happy
+|------------------|----------------|-----------|-----------------------|
+|he (ele)		 |			|he's		|Ele é / está		| --> he is happy
+|she (ela)	 	 |Is			|she's	|Ela é / está		| --> she is at home
+|It (isso)	 	 |			|It's		|Isso é / esta		| --> É utilizado para coisas, objetos ou animais quando queremos dizer "ele/ela"
+|------------------|----------------|-----------|-----------------------| exemplo quando vamos mostrar um carro --> It is beatiful car
+|We (nós)	 	 |			|We're	|Nós somos / estamos	| --> we are sad
+|you (você(s))	 |Are			|you're	|Você é / está		| --> you are bad 
+|They	(eles) 	 |			|they're	|Eles(as) são / estão	| --> they are with me
+\-----------------------------------------------------------------------/
+
+				VERB TO BE - Negativo
+.-------------------------------------------------------------------------.
+|Sujeito		 |Conjugação	|Contração	|Significado	        | 
+|------------------|----------------|-----------|-------------------------|
+|I (eu)		 |am	not*		|	-	|Eu não sou  / estou      | --> Não tem contração NAO EXISTE!!! 
+|------------------|----------------|-----------|-------------------------|
+|he (ele)		 |			|		|Ele não é / está		  |  
+|she (ela)	 	 |Is not		|Isn't	|Ela não é / está		  |  
+|It (isso)	 	 |			|		|Isso* não é / esta	  |  
+|------------------|----------------|-----------|-------------------------| 
+|We (nós)	 	 |			|		|Nós não somos / estamos  |  
+|you (você(s))	 |Are not		|Aren't	|Você não é / está	  |   
+|They	(eles) 	 |			|		|Eles(as) não são / estão |  
+\-------------------------------------------------------------------------'
+
+				VERB TO BE - Iterrogativo
+.-------------------------------------------------------------------------.
+|			 |Conjugação	|Contração	|Significado	        |
+|------------------|----------------|-----------|-------------------------| 
+|Am			 |I (eu)		|		|Eu sou  / estou?		  |  
+|------------------|----------------|-----------|-------------------------|
+|		 	 |he (ele)?		|		|Ele é / está?		  |  
+|IS	 	 	 |she (ela)?	|		|Ela é / está?		  |  
+|	 	 	 |It (isso)?	|		|Isso  é / esta?		  |  
+|------------------|----------------|-----------|-------------------------| 
+|		 	 |We (nós)		|		|Nós somos / estamos?	  |  
+|Are			 |you (você(s))	|		|Você é / está?		  |   
+| 			 |They (eles)	|		|Eles(as) são / estão?	  |  
+\-------------------------------------------------------------------------'
+
+
+				 TO BE - Iterrogativo negativo
+.-------------------------------------------------------------------------.
+|Estrutura pergunta|Conjugação	|Contração	|Significado	        |
+|------------------|----------------|-----------|-------------------------| 
+|Am			 |I not		|Am i not?*	|Eu não sou  / estou?	  |  
+|------------------|----------------|-----------|-------------------------|
+|		 	 |he not?		|isn't he	|Ele não é / está?	  |  
+|IS	 	 	 |she not?		|isn't she	|Ela não é / está?	  |  
+|	 	 	 |It not?		|isn't it	|Isso não é / esta?	  |  
+|------------------|----------------|-----------|-------------------------| 
+|		 	 |We not?		|Aren't we	|Nós não somos / estamos? |  
+|Are			 |you not?		|Aren't you	|Você não é / está?	  |   
+| 			 |They not?		|Aren't they|Eles(as) não são / estão?|  
+\-------------------------------------------------------------------------'
+
+1. I am a good father.
+Eu sou um bom pai. --> I'm good father
+
+2. I am at home.
+Eu estou em casa. --> I'm at home.
+
+3. I am really tall.
+Eu sou muito (realmente) alto. --> I'm really tall
+
+4. I’m Russian. --> 'Nacionalidade é escrito com maiuscula'
+Eu sou russo. 
+
+5. I’m an actor. --> Sempre que for uma vogal utiliza se 'an' para melhora na fonetica. 
+Eu sou ator.
+
+6. Relax! I am not dangerous. 
+Relaxa! Eu não sou perigoso.
+
+7. I am not his neighbor. 
+Eu não sou vizinho dele.
+
+8. I am not a lawyer. 
+Eu não sou advogado.
+
+9. I’m not an artist.
+Eu não sou artista.
+
+10. I’m not the author of that book. 
+Eu não sou o autor daquele livro.
+
+11. Am I a terrible teacher?
+Eu sou um professor terrível?
+
+12. Am I wrong?
+Eu estou errado?
+
+13. Am I happy?
+Eu sou feliz?
+
+14. Am I too short for that part? "short (baixo /curto)", "part (parte / papel)" contexto
+Eu sou baixo demais para aquele papel?
+
+15. Am I a lousy husband? luosy "uma porcaria de algo / horrivel"
+Eu sou um marido ‘horrível’?
+
+16. Come on! You are just a kid. 
+Ah para! Você é só uma criança.
+
+17. You are a monster! --> you're monster
+Você é um monstro!
+
+18. You are my best customer.
+Você é o meu melhor cliente.
+
+19. Seriously! You’re crazy, dude!
+Sério! Você é louco, cara!
+
+20. You’re so cute.
+Você é tão fofo(a) / Vocês são tão fofos(as).
+
+21. You’re right. "right direita / certo" dependo contexto contrario de wrong.
+Você está certo(a) / Vocês estão certos(a).
+
+22. You are not American. --> "you're not american / you aren't American"
+Você não é americano(a) / Vocês não são americanos(as).
+
+23. You are not a bad student. -->"you're not a bad student / you aren't a bad student" 
+Você não é um(a) mau(má) aluno(a).
+
+24. Stop it! You’re not fat.
+Ah pare! Você não é/está gordo(a) / Vocês não são/estão gordos(as).
+
+25. Get out! You’re not welcome here.
+Vá embora! Você não é bem-vindo(a) aqui / Vão embora! Vocês não são bem-vindos(as) aqui.
+
+26. Don’t cry. You aren’t alone. "You are not alone"
+Não chore. Você não está sozinho(a) / Vocês não estão sozinhos(as).
+
+27. Are you in college?
+Você está na faculdade? / Vocês estão na faculdade?
+
+28. Excuse me, are you the boss?
+Com licença, você é o(a) chefe?
+
+29. Are you the priest of that church?
+Você é o padre daquela igreja?
+
+30. Aren’t you that famous football player?
+Você não é aquele jogador de futebol americano famoso?
+
+31. Are you curious?
+Você é curioso(a)? / Vocês são curiosos(as)?
+
+32. He is my cousin. 
+Ele é meu primo.
+
+33. He is a genius.
+Ele é um gênio. 
+
+34. He is an outstanding professional.
+Ele é um profissional espetacular.
+
+35. He’s an incredible musician.
+Ele é um músico incrível.
+
+36. He’s African. 
+Ele é africano.
+
+37. He’s not a potential client. 
+Ele não é um cliente potencial.
+
+38. Lucas is not Christian. 
+O Lucas não é cristão.
+
+39. He isn’t willing to pay so much money.
+Ele não está disposto a pagar tanto dinheiro.
+
+40. He isn’t interested in the business. 
+Ele não está interessado no negócio.
+
+41. Jesus! Is he your brother-in-law?
+Jesus amado! Ele é seu cunhado?
+
+42. Is John the mayor of the city?
+O John é o prefeito da cidade?
+
+43. Is he an understanding friend?
+Ele é um amigo compreensivo?
+
+44. Is Bruce a shy man?
+O Bruce é um homem tímido?
+
+45. Isn’t he a little old for you?
+Ele não é um pouco velho para você?
+
+46. She is the president of the country.
+Ela é a presidente do país.
