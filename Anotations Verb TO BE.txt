@@ -159,19 +159,19 @@ Ele é meu primo.
 33. He is a genius.
 Ele é um gênio. 
 
-34. He is an outstanding professional.
+34. He is an outstanding professional. --> outstanding "fora de serie / muito bom "
 Ele é um profissional espetacular.
 
 35. He’s an incredible musician.
 Ele é um músico incrível.
 
 36. He’s African. 
-Ele é africano.
+Ele é africano(a /os/as).
 
 37. He’s not a potential client. 
 Ele não é um cliente potencial.
 
-38. Lucas is not Christian. 
+38. Lucas is not Christian. "está em maiusculo devido a religiosidade"
 O Lucas não é cristão.
 
 39. He isn’t willing to pay so much money.
